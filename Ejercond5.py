@@ -10,7 +10,6 @@ elif tipo_uva == 'B':
 else:
     print("Tipo de uva no válido. Debe ser A o B.")
 
-# Calcular la ganancia según las condiciones dadas
 if tipo_uva == 'A':
     if tamaño_uva == 1:
         ganancia = precio_inicial + 0.2
